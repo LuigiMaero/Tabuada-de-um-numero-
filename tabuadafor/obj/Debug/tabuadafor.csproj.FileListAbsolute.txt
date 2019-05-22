@@ -1,0 +1,5 @@
+c:\users\aluno\documents\visual studio 2015\Projects\tabuadafor\tabuadafor\bin\Debug\tabuadafor.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\tabuadafor\tabuadafor\bin\Debug\tabuadafor.exe
+c:\users\aluno\documents\visual studio 2015\Projects\tabuadafor\tabuadafor\bin\Debug\tabuadafor.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\tabuadafor\tabuadafor\obj\Debug\tabuadafor.exe
+c:\users\aluno\documents\visual studio 2015\Projects\tabuadafor\tabuadafor\obj\Debug\tabuadafor.pdb
